@@ -1,0 +1,70 @@
+#stylebody{
+          margin: 0;  
+          padding: 0;
+          background-image: url(Capture.PNG);
+          background-repeat: no-repeat;
+          background-size: cover;
+          height: 100%;
+          border-color: 20px solid  black;         
+      
+
+           }
+#head1{  
+  padding: 20px;
+  /* border: 2px solid greenyellow; */
+ height: 100px;
+    
+      }
+.h1style{color: rgb(3, 253, 3);
+         font-family:Verdana;
+         border:2px solid green ;
+         border-radius: 20px;
+         width: 260px;
+         position: relative;
+         text-shadow: 1px 1px 2px black, 0 0 25px rgb(81, 255, 0), 0 0 5px rgb(29, 241, 10);
+         padding: 10px;
+         box-shadow:1px 1px 2px black, 0 0 25px rgb(94, 255, 0), 0 0 5px rgb(0, 139, 23);
+         }
+
+ #menu{
+    float: right;
+    margin-top: -55px;
+    overflow: hidden;
+
+ }  
+ .class1{
+    display: inline-block;
+     margin-left: 50px;
+   
+   
+ }
+ .aa{ 
+    color: rgb(71, 243, 27);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(81, 255, 0), 0 0 5px rgb(16, 189, 0);
+ }      
+ .aa:hover{
+    color: rgb(252, 252, 252); 
+    
+}
+#sty{ font-size: 60px;
+   font-family:Verdana;
+   text-shadow: 1px 1px 2px black, 0 0 25px rgb(49, 184, 16), 0 0 5px rgb(139, 28, 0);
+    color: rgb(113, 224, 48);
+ padding: 30px;
+margin-top: 10px;}
+ #call{color: rgb(3, 253, 3);
+    font-family:Verdana;
+    font-size: 20px;
+    border:2px solid green ;
+    border-radius: 20px;
+    width: 260px;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(81, 255, 0), 0 0 5px rgb(29, 241, 10);
+    box-shadow:1px 1px 2px black, 0 0 25px rgb(94, 255, 0), 0 0 5px rgb(0, 139, 23);
+margin-left: 30px; }
+   #q{ color: white;
+padding: 20px;
+margin-top:-80px;
+font-family:Verdana;
+text-shadow: 1px 1px 2px black, 0 0 25px rgb(81, 255, 0), 0 0 5px rgb(29, 241, 10);} 

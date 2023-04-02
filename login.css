@@ -1,0 +1,36 @@
+#stylebody{
+    background-image: url(fee54690963240994bf2b3c6342bc89a.jpg); 
+    background-size: cover;
+
+}
+#box{ font-family:Verdana;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(49, 184, 16), 0 0 5px rgb(139, 28, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    height: 100%;
+    width: 90%;
+   text-align: center;}
+#head1{  
+font-style:italic;}
+.intex{ border-radius: 50px;
+    
+    color: rgb(247, 244, 244);
+    border-color: white;
+    background:none ;}
+
+#but{ border-radius: 50px;
+    color:white;
+    background: none;
+
+}
+.select{ border-radius: 50px;
+background: none;
+ border-color:2px solid  white;
+}
+
+    
+            
+
+      
+
+
